@@ -1,0 +1,1 @@
+print('"The lagorithm" module has been imported')
